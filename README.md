@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Project in Bio" src=".github/capa.png" width="100%">
+  <img alt="Short url" src=".github/capa.png" width="100%">
 </p>
 
 ## 💻 Projeto
